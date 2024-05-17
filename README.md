@@ -4,5 +4,5 @@
 
 ## How to Run
 ```
-Rscrip  scrinasnkasnkn.R
+Rscrip  lidar_cleaning.R
 ```
